@@ -100,7 +100,7 @@ The confusion matrix shows that the model made very few errors. It correctly ide
 
 A key advantage of Random Forest is its ability to rank features by importance. The plot below shows that `mean concave points`, `worst radius`, and `worst concave points` were the most decisive features for the model.
 
-![Feature Importance](./outputs/plots/feature_importance.png)
+![Feature Importance](output/Python%20bar%20feature%20importance.png)
 
 ## 📄 License
 
