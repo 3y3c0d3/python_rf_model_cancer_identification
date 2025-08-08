@@ -73,7 +73,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```sh
     python scripts/train_model.py
     ```
-    This will train the model, run the evaluation, and save the model file and output plots to the `models/` and `outputs/plots/` directories.
+    This will train the model, run the evaluation, and save the model file and output plots to the `model/` and `output/` directories.
 
 ## ✅ Results
 
