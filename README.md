@@ -94,13 +94,13 @@ The model performs exceptionally well on the test set, achieving an accuracy of 
 
 The confusion matrix shows that the model made very few errors. It correctly identified 59/63 malignant cases and 107/108 benign cases.
 
-![Confusion Matrix](/output/Python%20rf%20model%20confusion%20matrix.png)
+![Confusion Matrix](/output/confusion_matrix.png)
 
 ### Feature Importance
 
 A key advantage of Random Forest is its ability to rank features by importance. The plot below shows that `mean concave points`, `worst radius`, and `worst concave points` were the most decisive features for the model.
 
-![Feature Importance](output/Python%20bar%20feature%20importance.png)
+![Feature Importance](output/feature_importance.png)
 
 ## 📄 License
 
