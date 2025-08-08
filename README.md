@@ -94,7 +94,7 @@ The model performs exceptionally well on the test set, achieving an accuracy of 
 
 The confusion matrix shows that the model made very few errors. It correctly identified 59/63 malignant cases and 107/108 benign cases.
 
-![Confusion Matrix](./outputs/plots/confusion_matrix.png)
+![Confusion Matrix](./outputs/plots/Python_bar_feature_importance.png)
 
 ### Feature Importance
 
